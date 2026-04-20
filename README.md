@@ -30,7 +30,7 @@ SQL • BigQuery • Power BI • Databricks • Python • Visualização de Da
 ### 👩‍💻 Sobre mim
 Sou estudante de **Ciência da Computação** no **Instituto Mauá de Tecnologia** e atualmente atuo como **Analista Jr. de Business Intelligence no C6 Bank (Crédito & Analytics)**. 
 
-Foco em transformar grandes volumes de dados em **insights acionáveis**, criando arquiteturas de dados eficientes e dashboards que contam histórias e facilitam decisões estratégicas de negócio.
+Foco em transformar dados em **insights acionáveis**, criando arquiteturas de dados eficientes e dashboards que contam histórias e facilitam decisões estratégicas de negócio.
 
 ---
 
@@ -40,22 +40,25 @@ Foco em transformar grandes volumes de dados em **insights acionáveis**, criand
 | :--- | :--- |
 | **Bancos de Dados** | `SQL` `Google BigQuery` `Databricks` |
 | **Visualização** | `Power BI (DAX)` `Storytelling de Dados` |
-| **Linguagens** | `Python (Pandas, NumPy)` `PySpark` |
-| **Interesses Atuais** | `Engenharia de Dados` `Automação` `IA/ML` |
+| **Linguagens** | `Python` |
+| **Em Aprendizado** | `Engenharia de Dados` `Automação` `IA/ML` |
 
 ---
 
-### 📊 O que estou a fazer agora?
-* 🚀 Otimizando processos e consultas no ambiente de Crédito do **C6 Bank**.
-* 🐍 Evoluindo em scripts de **Python** para automação de rotinas de dados.
-* 📐 Estudando modelagem de dados avançada e performance em **BigQuery**.
+### 📊 O que estou fazendo agora?
+
+* 🏦 **C6 Bank:** Atuo no time de Crédito & Analytics, otimizando processos e consultas em SQL para garantir que as análises de negócio sejam rápidas e precisas.
+* 🎓 **TCC @ Mauá:** Desenvolvendo o [**Ampara**](https://github.com/marodrigues412/ampara-tcc) 🛡️ — um sistema que usa IA e smartwatches para identificar situações de risco para mulheres de forma preventiva.
+* 📈 **Visualização & BI:** Criando dashboards no Power BI focados em UX e Storytelling, transformando métricas de crédito em visões claras que facilitam a tomada de decisão.
+* 📐 **Modelagem no BigQuery:** Estruturando bases de dados de forma mais eficiente, focando em organização e performance para otimizar o consumo de dados no BI.
+* 🐍 **Python & Estatística:** Reforçando a base lógica e analítica para criar automações de dados mais robustas e entender melhor os modelos analíticos. 
 
 ---
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marodriguess412&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marodriguess412&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 ---
