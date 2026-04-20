@@ -61,7 +61,6 @@ Estou sempre aberta a trocar ideias sobre dados, finanças e tecnologia!
 - 📧 [marodriguess412@gmail.com](mailto:marodriguess412@gmail.com)
 
 ---
----
 <p align="center">
   <i>A ship in port is safe, but that's not what ships are built for. Sail out to sea and do new things.</i> <br> 
   — <b>Grace Hopper</b>
